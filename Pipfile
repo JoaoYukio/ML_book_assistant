@@ -5,6 +5,12 @@ name = "pypi"
 
 [packages]
 langchain = "*"
+python-dotenv = "*"
+arxiv = "*"
+openai = "*"
+google-search-results = "*"
+streamlit = "*"
+pypdf2 = "*"
 
 [dev-packages]
 
