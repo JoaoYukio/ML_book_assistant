@@ -11,6 +11,9 @@ openai = "*"
 google-search-results = "*"
 streamlit = "*"
 pypdf2 = "*"
+pinecone-client = "*"
+tiktoken = "*"
+faiss-cpu = "*"
 
 [dev-packages]
 
